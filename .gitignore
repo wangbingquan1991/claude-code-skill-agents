@@ -27,3 +27,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Security and Audit Reports
+SECURITY_AUDIT.md
