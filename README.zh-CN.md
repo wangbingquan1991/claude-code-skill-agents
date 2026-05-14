@@ -254,7 +254,7 @@ git push origin feature/amazing-new-agent
 
 <div align="center">
 
-**由 Claude Code 社区用 ❤️ 打造**
+**为 Claude Code 社区精心打造 ❤️**
 
 如果觉得有用，请 [⭐ 给个星标](https://github.com/wangbingquan1991/claude-code-skill-agents)！
 

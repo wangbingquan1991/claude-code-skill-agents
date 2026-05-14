@@ -253,7 +253,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the Claude Code Community**
+**Built with ❤️ for the Claude Code Community**
 
 [⭐ Star this repo](https://github.com/wangbingquan1991/claude-code-skill-agents) if you find it helpful!
 
