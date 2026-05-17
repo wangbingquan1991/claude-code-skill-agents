@@ -10,6 +10,6 @@
 [submodule "crawl/Scrapling"]
 	path = crawl/Scrapling
 	url = https://github.com/D4Vinci/Scrapling.git
-[submodule "industry/valuecell"]
-	path = industry/valuecell
+[submodule "finance/valuecell"]
+	path = finance/valuecell
 	url = https://github.com/ValueCell-ai/valuecell.git
