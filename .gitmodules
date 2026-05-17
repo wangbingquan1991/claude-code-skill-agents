@@ -1,0 +1,12 @@
+[submodule "skills/andrej-karpathy-skills"]
+	path = skills/andrej-karpathy-skills
+	url = https://github.com/multica-ai/andrej-karpathy-skills.git
+[submodule "skills/claude-mem"]
+	path = skills/claude-mem
+	url = https://github.com/thedotmack/claude-mem.git
+[submodule "team/rudder"]
+	path = team/rudder
+	url = https://github.com/Undertone0809/rudder.git
+[submodule "crawl/Scrapling"]
+	path = crawl/Scrapling
+	url = https://github.com/D4Vinci/Scrapling.git
