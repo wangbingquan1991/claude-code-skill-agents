@@ -22,3 +22,6 @@
 [submodule "project/awesome-design-md"]
 	path = project/awesome-design-md
 	url = https://github.com/VoltAgent/awesome-design-md.git
+[submodule "team/clawdi"]
+	path = team/clawdi
+	url = https://github.com/Clawdi-AI/clawdi.git
