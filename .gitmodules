@@ -10,6 +10,15 @@
 [submodule "crawl/Scrapling"]
 	path = crawl/Scrapling
 	url = https://github.com/D4Vinci/Scrapling.git
-[submodule "finance/valuecell"]
-	path = finance/valuecell
+[submodule "project/valuecell"]
+	path = project/valuecell
 	url = https://github.com/ValueCell-ai/valuecell.git
+[submodule "skills/skills"]
+	path = skills/skills
+	url = https://github.com/mattpocock/skills.git
+[submodule "project/TrendRadar"]
+	path = project/TrendRadar
+	url = https://github.com/sansan0/TrendRadar.git
+[submodule "project/awesome-design-md"]
+	path = project/awesome-design-md
+	url = https://github.com/VoltAgent/awesome-design-md.git
